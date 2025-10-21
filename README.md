@@ -4,4 +4,4 @@
   See [LICENSE](./LICENSE)
 
 - **Data / Contents** : Creative Commons Attribution 4.0 International (CC BY 4.0)  
-  See [LICENSE-CCBY.txt](./LICENSE-CCBY.txt)
+  See [LICENSE-CCBY](./LICENSE-CCBY)
